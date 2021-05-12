@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trevald
 - 👀 I’m interested in UX/UI, Graphic Design, HMTL, CSS, SVG, JavaScript, A11y, Vue, MarkDown
-- 🌱 I’m currently working as an UX-designer for an insurance company and as an do-everything-myself on my side projects:
+- 🌱 I’m currently working as an UX-designer for an insurance company and as a do-everything-myself on my side projects:
   - [http://forzatime.com](ForzaTime.com) - Like Tinder for soccer fixtures
   - [https://fardig.io](Fardig.io) - MD based Texteditor that has a command palette, collects all your todos in one view and uses Dropbox for auth and storage. Own you own data! 
   - [http://dizzision.com](Dizzision.com) - Wheel of fortune in carnival style
